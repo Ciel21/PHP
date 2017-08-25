@@ -1,6 +1,8 @@
 <?php
 
-echo "ola mundo456";
 
-echo "mae";
+echo "ola mundo 123456";
+
+echo "ola mae";
+
 ?>
